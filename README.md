@@ -1,5 +1,5 @@
 # ReviewScraper
-Code to scrap reviews along with pagination
+## Python Code to scrap reviews along with pagination
 
 - Scraping reviews from a e-commerce site
 - You can change the name of the product

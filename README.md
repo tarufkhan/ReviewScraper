@@ -1,5 +1,5 @@
 # ReviewScraper
-## Python Code to scrap reviews from Flipkart along with page number.
+## Python Code to scrap page-wise reviews from Flipkart.
 
 - Scraping reviews from a e-commerce site Flipkart
 - You can change the name of the product
